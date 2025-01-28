@@ -133,8 +133,8 @@ if(nota >= 7) {
   console.log('Voce foi reprovado!');
 }*/
 
-//let numeroAleatorio = Math.random();
-//console.log(numeroAleatorio);
+let numeroAleatorio = Math.random();
+console.log(numeroAleatorio);
 
-//let numeroAleatorio = parseInt(Math.random() * 1000 + 1);
-//console.log(numeroAleatorio);
+numeroAleatorio = parseInt(Math.random() * 1000 + 1);
+console.log(numeroAleatorio);
