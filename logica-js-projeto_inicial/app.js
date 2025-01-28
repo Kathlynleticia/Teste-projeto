@@ -126,15 +126,15 @@ if (numero > 0) {
     console.log("O número é zero.");
 }*/
 
-/*let nota = 6.0
-if(nota >= 7) {
+let notaAluno = 6.0
+if(notaAluno >= 7) {
   console.log('Voce foi aprovado!');
 } else {
   console.log('Voce foi reprovado!');
-}*/
+}
 
-let numeroAleatorio = Math.random();
+/*let numeroAleatorio = Math.random();
 console.log(numeroAleatorio);
 
 numeroAleatorio = parseInt(Math.random() * 1000 + 1);
-console.log(numeroAleatorio);
+console.log(numeroAleatorio);/*
